@@ -1,7 +1,5 @@
 ## 👋 Olá, eu sou o Lucas Santos!
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=void222222&show_icons=true&theme=radical)
-
 **Desenvolvedor Full Stack Especialista em JavaScript/TypeScript**
 
 Trabalho com **Node.js, React, TypeScript, Prisma** e automação inteligente com IA local (Ollama/LLMs).
