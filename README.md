@@ -1,26 +1,123 @@
-## 👋 Olá, eu sou o Lucas Santos!
+# 👋 Olá, eu sou o Lucas Santos
 
-**Desenvolvedor Full Stack Especialista em JavaScript/TypeScript**
+## Desenvolvedor Full Stack • Automação Inteligente • IA Local
 
-Trabalho com **Node.js, React, TypeScript, Prisma** e automação inteligente com IA local (Ollama/LLMs).
+Transformo ideias em sistemas reais, rápidos e inteligentes.
 
-Atualmente sou **Desenvolvedor Full Stack** na Politi Plastic, onde desenvolvo sistemas completos:  
-• ERP de Almoxarifado com alertas de reposição  
-• Dashboards interativos  
-• Controle de Ponto inteligente  
-• Automação de processos operacionais
+Sou desenvolvedor focado em construir aplicações modernas usando **Node.js, React, TypeScript e IA local**, criando soluções que automatizam processos, aumentam produtividade e resolvem problemas do mundo real.
 
-**Minha stack principal:**
-- **JavaScript / TypeScript Ecosystem**: Node.js • React • Prisma • Electron
-- **Automação & IA**: Ollama • LLMs • Bots inteligentes • Playwright
-- **Banco de Dados**: MySQL • SQLite • SQL
+Tenho forte interesse em:
+- 🤖 Inteligência Artificial aplicada
+- ⚙️ Automação de processos
+- 🧠 LLMs locais e agentes autônomos
+- 📊 Sistemas empresariais e dashboards
+- 💻 Experiências desktop modernas com Electron e Tauri
 
-Aqui você encontra meus projetos reais, com código limpo e foco em resolver problemas de verdade.
+---
 
-Aberto a oportunidades **PJ ou CLT** como Full Stack JavaScript/TypeScript ou Desenvolvedor de Automação/IA.
+# 🚀 O que eu construo
 
-📍 Guariba - SP  
-💼 [LinkedIn](https://linkedin.com/in/lucas-santos-94b9532ab)  
+## 🏭 ERP Inteligente para Almoxarifado
+Sistema completo de gestão de estoque com:
+- alertas preditivos de reposição
+- controle de movimentações
+- relatórios automáticos
+- foco em eficiência operacional
+
+---
+
+## 📊 Dashboards Industriais Interativos
+Painéis modernos para tomada de decisão em tempo real:
+- métricas operacionais
+- indicadores de produção
+- visualização inteligente de dados
+- interface responsiva e intuitiva
+
+---
+
+## ⏱️ Sistema de Controle de Ponto com Geolocalização
+Plataforma de registro de jornada com:
+- geolocalização
+- relatórios automáticos
+- autenticação segura
+- gerenciamento de colaboradores
+
+---
+
+## 🤖 Raiden IA — Assistente Virtual Offline
+Uma assistente virtual autônoma com personalidade própria:
+- processamento local com LLMs
+- reconhecimento e síntese de voz
+- memória persistente
+- visão computacional
+- automação de tarefas
+- funcionamento 100% offline
+
+---
+
+# 🧠 Stack Principal
+
+## ⚡ Ecossistema JavaScript / TypeScript
+- Node.js
+- React
+- TypeScript
+- Prisma
+- Electron
+- Tauri
+- Fastify
+- Express
+
+---
+
+## 🤖 IA & Automação
+- Ollama
+- LLMs Locais
+- Agentes Autônomos
+- STT / TTS
+- Playwright
+- Web Automation
+- IA Offline
+
+---
+
+## 🗄️ Banco de Dados
+- PostgreSQL
+- MySQL
+- SQLite
+
+---
+
+# 🎯 Filosofia de Desenvolvimento
+
+Não gosto de criar apenas “projetos de portfólio”.
+
+Meu foco é desenvolver aplicações que:
+- resolvam problemas reais
+- tenham arquitetura organizada
+- sejam rápidas e escaláveis
+- entreguem valor de verdade
+
+Aqui no GitHub você vai encontrar projetos completos, experimentos avançados de IA e sistemas feitos pensando em uso real.
+
+---
+
+# 💼 Atualmente Buscando
+
+- Estágio em Desenvolvimento Full Stack
+- Vagas Trainee em Tecnologia
+- Oportunidades PJ ou CLT
+- Projetos envolvendo IA aplicada
+- Desenvolvimento JavaScript/TypeScript
+- Engenharia de Automação e IA
+
+---
+
+# 📍 Informações
+
+📍 Guariba — SP  
+💼 LinkedIn: https://www.linkedin.com/in/lucas-santos-araujo/  
 📧 lucassantos006@gmail.com
 
-Vamos construir algo juntos? 🚀
+---
+
+# 🚀 Vamos construir algo relevante juntos.
